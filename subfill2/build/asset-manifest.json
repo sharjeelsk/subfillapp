@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1795250c.chunk.css",
+    "main.js": "/static/js/main.880734cb.chunk.js",
+    "main.js.map": "/static/js/main.880734cb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b875fdff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b875fdff.js.map",
+    "static/js/2.efcb0340.chunk.js": "/static/js/2.efcb0340.chunk.js",
+    "static/js/2.efcb0340.chunk.js.map": "/static/js/2.efcb0340.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f987bc9c74b726cfd91b8fbc6cffa6c4.js": "/precache-manifest.f987bc9c74b726cfd91b8fbc6cffa6c4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1795250c.chunk.css.map": "/static/css/main.1795250c.chunk.css.map",
+    "static/js/2.efcb0340.chunk.js.LICENSE.txt": "/static/js/2.efcb0340.chunk.js.LICENSE.txt",
+    "static/media/browser.png": "/static/media/browser.eba86013.png",
+    "static/media/checked (1).png": "/static/media/checked (1).24b3ce97.png",
+    "static/media/form.png": "/static/media/form.ea73850d.png",
+    "static/media/free.png": "/static/media/free.d8ef771d.png",
+    "static/media/message.png": "/static/media/message.fabdba9b.png",
+    "static/media/notepad.png": "/static/media/notepad.0d11b166.png",
+    "static/media/phone-call.png": "/static/media/phone-call.8ae99e12.png",
+    "static/media/premium.png": "/static/media/premium.9f377c4a.png",
+    "static/media/tag.png": "/static/media/tag.35260f3d.png",
+    "static/media/user.png": "/static/media/user.ff3d7423.png",
+    "static/media/website.png": "/static/media/website.f73f80d6.png",
+    "static/media/youtube.png": "/static/media/youtube.c2591eb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b875fdff.js",
+    "static/js/2.efcb0340.chunk.js",
+    "static/css/main.1795250c.chunk.css",
+    "static/js/main.880734cb.chunk.js"
+  ]
+}
